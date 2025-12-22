@@ -7,8 +7,6 @@ vless://fd4b0117-d752-46fd-9a94-21a21e360fdb@84.201.130.151:443/?type=tcp&encryp
 
 vless://3b2247e7-914c-4d8d-a20c-5edef1e5d00d@89.208.87.217:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=tradingview.com&fp=chrome&security=reality&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&sid=04bf0403f96e5b4b#🇪🇸
 
-vless://3e7f67de-648e-4871-b51a-a225214d41ee@8.218.41.50:443/?type=tcp&encryption=none&flow=&sni=cdn.userway.org&fp=chrome&security=reality&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&sid=#🇭🇰 (резерв)
-
 vless://0a587061-6ccb-407c-86b8-c7d78b6bee5e@89.23.123.15:4443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=github.com&fp=chrome&security=reality&pbk=5XB_N3ATilH-6tp_MXht-84_y5YaJnx_Z7MbuY2otHE&sid=aa7e96542880027a#🇷🇺
 
 vless://fd4b0117-d752-46fd-9a94-21a21e360fdb@meg3.horiono3.xyz:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=io.ozone.ru&allowInsecure=1&fp=qq&security=reality&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&sid=cf4d#🇷🇺 белые (резерв)
