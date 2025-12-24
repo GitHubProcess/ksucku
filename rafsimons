@@ -17,10 +17,6 @@ vless://c495cf08-e046-4311-aa4b-82cc16576992@51.250.75.169:446/?type=grpc&encryp
 
 vless://c495cf08-e046-4311-aa4b-82cc16576992@51.250.66.217:446/?type=grpc&encryption=none&flow=&serviceName=ads.x5.ru&sni=ads.x5.ru&security=reality&pbk=mMaSUsOC5i3ErLDcaWW9UOOjG0fcKPCwVjzGS1wXQx8&sid=0512567389abcdef#🇷🇺 белые средний
 
-vless://9c79aceb-4649-44ea-9698-b5e9ecf6d6da@156.229.161.107:10001?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.icloud.com&fp=chrome&security=reality&pbk=4jNz4Bw-FZlaX-WtfAdwK0hegY28W_k8AttGd-7hZn4&sid=fb2c6678#🇺🇸
-
-vless://fba4e0e0-118c-431f-9f6a-4cfc99f39de8@support.zoom.us:2096?&security=tls&fp=chrome&alpn=h3&sni=zoom.seaseus.pp.ua&type=ws&headerType=none&host=zero.seaseus.pp.ua&path=%2Fseaseus#🇱🇰
-
 vless://a4c6bbd7-6ea5-44b2-9829-08f5ae615d49@n1761184273.mv7wh.tech:443?&security=tls&fp=chrome&type=ws&headerType=none&host=n1761184273.mv7wh.tech&path=%2Fa4c6bbd7-6ea5-44b2-9829-08f5ae615d49#🇭🇰
 
 vless://0bb4b732-62e7-46c3-b7d6-082a103dfc9f@172.66.156.81:80?encryption=none&type=ws&host=websocket.network.www.speedtest.net.flutter.dev.russia.pyt.digitalcity5.xyz.skylinkserver.site.&path=/%40%53%68%68%5F%50%72%6F%78%79%2D%2D%2D%2D%40%53%68%68%5F%50%72%6F%78%79%2D%2D%2D%2D%40%53%68%68%5F%50%72%6F%78%79%2D%2D%2D%2D%40%53%68%68%5F%50%72%6F%78%79%2D%2D%2D%2D%40%53%68%68%5F%50%72%6F%78%79%2D%2D%2D%2D%40%53%68%68%5F%50%72%6F%78%79%2D%2D%2D%2D%40%53%68%68%5F%50%72%6F%78%79%2D%2D%2D%2D%40%53%68%68%5F%50%72%6F%78%79%2D%2D%2D%2D%40%53%68%68%5F%50%72%6F%78%79%2D%2D%2D%2D%40%53%68%68%5F%50%72%6F%78%79%2D%2D%2D%2D%40%53%68%68%5F%50%72%6F%78%79%2D%2D%2D%2D%40%53%68%68%5F%50%72%6F%78%79#🇺🇸
