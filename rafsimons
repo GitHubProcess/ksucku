@@ -15,3 +15,7 @@ vless://a91e64f0-9295-499d-bf4a-661ad99d4938@217.16.24.170:443?security=reality&
 vless://3e7f67de-648e-4871-b51a-a225214d41ee@8.218.41.50:443/?type=tcp&encryption=none&flow=&sni=cdn.userway.org&fp=chrome&security=reality&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&sid=#[designer] - 🇭🇰🔥🔥🔥(fixed)
 
 vless://fe21e399-ec6f-4cb5-8441-e911178665b1@185.136.132.171:24170?security=reality&encryption=none&pbk=VsmNi1ZMXVOwhCWpbCp51w-D_DzrxWX4jgfpcU0S9G4&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=speedtest.net&sid=2fb2106a629b#[designer] - 🇳🇱🔥🔥🔥(fixed) offline
+
+vless://f228db24-3602-4dd2-bdec-2d7faa61e70b@103.80.86.254:4443?security=reality&type=tcp&sni=github.com&fp=chrome&flow=xtls-rprx-vision&sid=aa7e96542880027a&pbk=5XB_N3ATilH-6tp_MXht-84_y5YaJnx_Z7MbuY2otHE&encryption=none#[designer] - 🇺🇦🔥🔥🔥(fixed)
+
+vless://fba4e0e0-118c-431f-9f6a-4cfc99f39de8@support.zoom.us:2096?&security=tls&fp=chrome&alpn=h3&sni=zoom.seaseus.pp.ua&type=ws&headerType=none&host=zero.seaseus.pp.ua&path=%2Fseaseus#[designer] - 🇱🇰🔥🔥🔥(fixed)
