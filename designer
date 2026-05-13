@@ -6,3 +6,4 @@ vless://5a478129-3e7e-Fade-99d7-95e1da14fbdc@195.209.90.178:443?type=ws&host=s28
 
 vless://50b95deb-6394-46c5-b88a-583e5b3ca7ee@fastcon-tgg.harknmav.fun:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=ads.x5.ru&pbk=PGccrEdFmBaB1rQFJqM-a9jJ1pFsxhUP2sD9KTw5Oz4&sid=f69d7af2d5fc5e0c#%F0%9F%87%B7%F0%9F%87%BARussia%20%5B*CIDR%5D
 
+vless://e387b1c6-c344-Fade-b068-094f5b92aa23@195.209.88.180:443?type=ws&host=s28233.cdn.ngenix.net&path=/&security=tls&sni=s28233.cdn.ngenix.net&fp=chrome&allowInsecure=0#%F0%9F%87%B8%F0%9F%87%AASweden%20%5B*CIDR%5D
